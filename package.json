@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/ensdomains/verify-ratification#readme",
   "devDependencies": {
-    "ethers": "^5.5.1"
+    "ethers": "^6.13.4"
   }
 }
